@@ -1,0 +1,119 @@
+.kantener1{
+    display: flex;
+height: 200px;
+gap: 50px;
+padding:20px ;
+
+}
+.a1{
+    border: solid 3px;
+    background-color: chartreuse;
+    display: flex;
+    flex-grow: 1;
+    margin: 10px;
+}
+.a2{
+    background-color: chartreuse;
+    border: solid 3px;
+    display: flex;
+    flex-grow: 10;
+    margin: 10px;
+}
+.a3{
+    border: solid 3px;
+    background-color: chartreuse;
+    display: flex;
+    flex-grow: 1;
+    margin: 10px;
+}
+.kantener2{
+    display: flex;
+    height: 200px;
+    gap: 50px;
+    padding:20px ;
+}
+.a4{
+    background-color: chartreuse;
+    border: solid 3px;
+    display: flex;
+    flex-grow: 10;
+    margin: 10px;
+}
+.a5{
+    border: solid 3px;
+    background-color: chartreuse;
+    display: flex;
+    flex-grow: 1;
+    margin: 10px;
+}
+.a6{
+    background-color: chartreuse;
+    border: solid 3px;
+    display: flex;
+    flex-grow: 2;
+    margin: 10px;
+}
+.kantener3{
+    display: flex;
+    height: 200px;
+    gap: 50px;
+    padding:20px ;
+
+}
+.a7{
+    border: solid 3px;
+    background-color: chartreuse;
+    display: flex;
+    flex-grow: 1;
+    margin: 10px;
+}
+.a8{
+    background-color: chartreuse;
+    border: solid 3px;
+    display: flex;
+    flex-grow: 2;
+    margin: 10px;
+}
+.a9{
+    background-color: chartreuse;
+    border: solid 3px;
+    display: flex;
+    flex-grow: 10;
+    margin: 10px;
+}
+.kantener4{
+    display: flex;
+    height: 200px;
+    gap: 50px;
+    padding:20px ;
+
+}
+.a10{
+    background-color: chartreuse;
+    border: solid 3px;
+    display: flex;
+    flex-grow: 2;
+    margin: 10px;
+}
+.a11{
+    border: solid 3px;
+    background-color: chartreuse;
+    display: flex;
+    flex-grow: 1;
+    margin: 10px;
+}
+
+.a12{
+    background-color: chartreuse;
+    border: solid 3px;
+    display: flex;
+    flex-grow: 2;
+    margin: 10px;
+}
+.a11{
+    border: solid 3px;
+    background-color: chartreuse;
+    display: flex;
+    flex-grow: 1;
+    margin: 10px;
+}
